@@ -1,0 +1,11 @@
+name: metabodb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - rdkit
+  - sqlalchemy
+prefix: C:\Users\xtracko\miniconda3\envs\metabodb
+
